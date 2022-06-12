@@ -64,6 +64,7 @@ namespace CursoCSharp {
                 {"List - Coleções", ColecoesList.Executar },
                 {"Array List - Coleções", ColecoesArrayList.Executar },
                 {"Set - Coleções", ColecoesSet.Executar },
+                {"Queue - Coleções", ColecoesSet.Executar },
             });
 
             central.SelecionarEExecutar();
