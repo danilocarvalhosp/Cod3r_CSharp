@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp", "CursoCSharp.csproj", "{DB2AECBB-F29F-4355-8D43-922EF0883638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "..\Encapsulamento\Encapsulamento.csproj", "{DC8C2DB2-8CA0-4FAC-9D78-4CF847CFE045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "..\Encapsulamento\Encapsulamento\Encapsulamento.csproj", "{0CE83B7B-0ABD-443E-9331-72F68CE0C783}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DB2AECBB-F29F-4355-8D43-922EF0883638}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB2AECBB-F29F-4355-8D43-922EF0883638}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB2AECBB-F29F-4355-8D43-922EF0883638}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC8C2DB2-8CA0-4FAC-9D78-4CF847CFE045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC8C2DB2-8CA0-4FAC-9D78-4CF847CFE045}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC8C2DB2-8CA0-4FAC-9D78-4CF847CFE045}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC8C2DB2-8CA0-4FAC-9D78-4CF847CFE045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE83B7B-0ABD-443E-9331-72F68CE0C783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE83B7B-0ABD-443E-9331-72F68CE0C783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE83B7B-0ABD-443E-9331-72F68CE0C783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE83B7B-0ABD-443E-9331-72F68CE0C783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
