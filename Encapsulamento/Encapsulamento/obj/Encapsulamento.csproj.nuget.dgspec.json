@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cpd4\\Music\\GITHUB\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {}
+    "E:\\Cursos\\C#\\CSHARP\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cpd4\\Music\\GITHUB\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {
+    "E:\\Cursos\\C#\\CSHARP\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cpd4\\Music\\GITHUB\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "E:\\Cursos\\C#\\CSHARP\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\Users\\cpd4\\Music\\GITHUB\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
-        "packagesPath": "C:\\Users\\cpd4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cpd4\\Music\\GITHUB\\Encapsulamento\\Encapsulamento\\obj\\",
+        "projectPath": "E:\\Cursos\\C#\\CSHARP\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+        "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
+        "outputPath": "E:\\Cursos\\C#\\CSHARP\\Encapsulamento\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cpd4\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

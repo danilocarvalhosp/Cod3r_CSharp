@@ -8,3 +8,13 @@ C:\Users\cpd4\Music\GITHUB\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.
 C:\Users\cpd4\Music\GITHUB\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.csproj.CoreCompileInputs.cache
 C:\Users\cpd4\Music\GITHUB\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.dll
 C:\Users\cpd4\Music\GITHUB\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.pdb
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\bin\Debug\netstandard2.1\Encapsulamento.deps.json
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\bin\Debug\netstandard2.1\Encapsulamento.dll
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\bin\Debug\netstandard2.1\Encapsulamento.pdb
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.csproj.AssemblyReference.cache
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.AssemblyInfoInputs.cache
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.AssemblyInfo.cs
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.csproj.CoreCompileInputs.cache
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.dll
+E:\Cursos\C#\CSHARP\Encapsulamento\Encapsulamento\obj\Debug\netstandard2.1\Encapsulamento.pdb
