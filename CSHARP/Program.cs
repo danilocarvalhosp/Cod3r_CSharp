@@ -8,7 +8,8 @@ using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 
-namespace CursoCSharp {
+namespace CursoCSharp
+{
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
@@ -84,6 +85,7 @@ namespace CursoCSharp {
                 {"Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar },
                 {"Lambdas como Delegate - Métodos & Funções", LambdasDelegate.Executar },
                 {"Usando Delegates - Métodos & Funções", UsandoDelegate.Executar },
+                {"Delegates como Funções Anônimas - Métodos & Funções", DelegateFuncAnonima.Executar },
             });
 
             central.SelecionarEExecutar();
